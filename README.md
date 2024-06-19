@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm on an exciting journey, honing my skills and pushing my limits every day! 🚀<br><br>Eager to collaborate on innovative projects that will elevate my expertise and help me grow even further. 🤝<br><br>Currently diving deep into React, expanding my toolkit with these powerful technologies. 💡<br><br>Any Me About Javascript
+I'm on an exciting journey, honing my skills and pushing my limits every day! 🚀<br><br>Eager to collaborate on innovative projects that will elevate my expertise and help me grow even further. 🤝<br><br>Currently diving deep into React, expanding my toolkit with these powerful technologies. 💡<br><br>Ask Me About Javascript
 
 
 ## 🌐 Socials:
